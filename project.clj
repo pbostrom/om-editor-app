@@ -6,7 +6,7 @@
   :dependencies [[org.clojure/clojure "1.6.0"]
                  [org.clojure/clojurescript "0.0-2322"]
                  [om-codemirror "0.2.0"]
-                 [pbostrom/om "0.7.3-SNAPSHOT"]]
+                 [pbostrom/om "0.7.3"]]
 
   :plugins [[lein-cljsbuild "1.0.3"]
             [lein-cljsasset "0.1.0"]]
