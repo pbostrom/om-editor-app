@@ -1,6 +1,6 @@
 # om-editor-app
 
-An example app using the om-codemirror library, an Om wrapper around the CodeMirror JavaScript text editor. See https://github.com/pbostrom/om-codemirror for more info.
+An example app using the om-codemirror library, an Om wrapper around the CodeMirror JavaScript text editor. See [om-codemirror](https://github.com/pbostrom/om-codemirror) for more info.
 
 ## Usage
 Run the `lein-cljsbuild` and `lein-cljsasset` plugins:
